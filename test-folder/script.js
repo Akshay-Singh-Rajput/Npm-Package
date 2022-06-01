@@ -1,3 +1,3 @@
-const isPrime = require('ak-is-prime')
+const isPrime = require('isthatprime')
 
-console.log(isPrime(3));
+console.log(isPrime(12.33));

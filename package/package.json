@@ -1,6 +1,6 @@
 {
-  "name": "ak-is-prime",
-  "version": "1.0.0",
+  "name": "isthatprime",
+  "version": "1.0.4",
   "description": "Test if a number is prime",
   "main": "index.js",
   "maintainers": [
@@ -21,8 +21,7 @@
   },
   "homepage": "https://github.com/Akshay-Singh-Rajput/Npm-Package#readme",
   "keywords": [
-    "prime",
-    "primality"
+    "prime"
   ],
   "readmeFilename": "readme.md",
   "users": {

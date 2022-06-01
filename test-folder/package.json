@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "ak-is-prime": "^1.0.0"
+    "isthatprime": "^1.0.4"
   }
 }
